@@ -1,0 +1,39 @@
+{
+    "version": "20220831",
+    "description": "A variant of XySubFilter, which uses libass to render SSA/ASS",
+    "homepage": "https://github.com/Masaiki/xy-VSFilter",
+    "license": "",
+    "url": [
+        "https://github.com/Masaiki/xy-VSFilter/releases/download/20220831/XySubFilter_with_libass_20220831.zip"
+    ],
+    "hash": [
+        "caee9d529805eaa026a4a704954cc949da5087f965912a2352774dd94691e302"
+    ],
+    "architecture": {
+        "64bit": {
+            "extract_dir": [
+                "x64"
+            ]
+        },
+        "32bit": {
+            "extract_dir": [
+                "x86"
+            ]
+        }
+    },
+    "installer": {
+        "script": "sudo \"$dir\\Install_XySubFilter.bat\""
+    },
+    "uninstaller": {
+        "script": "sudo \"$dir\\Uninstall_XySubFilter.bat\""
+    },
+    "checkver": {
+        "github": "https://github.com/Masaiki/xy-VSFilter",
+        "regex": "tag/([\\d]+)"
+    },
+    "autoupdate": {
+        "url": [
+            "https://github.com/Masaiki/xy-VSFilter/releases/download/$version/XySubFilter_with_libass_$version.zip"
+        ]
+    }
+}
