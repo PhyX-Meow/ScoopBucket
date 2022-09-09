@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://downloads.sourceforge.net/project/twapi/Tcl%20binaries/Tclkits%20with%20TWAPI/tclkit-gui-8_6_12-twapi-4_7_2-x64-max.exe#tclsh.exe"
+                "https://downloads.sourceforge.net/project/twapi/Tcl%20binaries/Tclkits%20with%20TWAPI/tclkit-gui-8_6_12-twapi-4_7_2-x64-max.exe#/tclsh.exe"
             ],
             "hash": [
                 "e69cda3bd13a588be979b8e6a19798632840608a0c7c128d045e76594b24ce22"
@@ -14,7 +14,7 @@
         },
         "32bit": {
             "url": [
-                "https://downloads.sourceforge.net/project/twapi/Tcl%20binaries/Tclkits%20with%20TWAPI/tclkit-gui-8_6_12-twapi-4_7_2-x86-max.exe#tclsh.exe"
+                "https://downloads.sourceforge.net/project/twapi/Tcl%20binaries/Tclkits%20with%20TWAPI/tclkit-gui-8_6_12-twapi-4_7_2-x86-max.exe#/tclsh.exe"
             ],
             "hash": [
                 "4f0e42f8a526c95dbe95bff2090ca422f2461ab3416c5deb1aca1bc2eda22001"
