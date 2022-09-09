@@ -1,7 +1,6 @@
 # ScoopBucket
+
 Bucket for personal use.
-
-
 
 To Do:
 
