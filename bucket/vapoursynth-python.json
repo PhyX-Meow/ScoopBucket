@@ -1,5 +1,5 @@
 {
-    "version": "59",
+    "version": "59+3.10.7",
     "description": "A video processing framework with simplicity in mind",
     "homepage": "https://www.vapoursynth.com",
     "depends": "extras/vcredist2022",
@@ -8,21 +8,21 @@
         "64bit": {
             "url": [
                 "https://github.com/vapoursynth/vapoursynth/releases/download/R59/VapourSynth64-Portable-R59.7z",
-                "https://www.python.org/ftp/python/3.10.5/python-3.10.5-embed-amd64.zip"
+                "https://www.python.org/ftp/python/3.10.7/python-3.10.7-embed-amd64.zip"
             ],
             "hash": [
                 "b4111bf7fd12d1a1bd697659bfcc87dbe8f91797da1c0a9905c0cb42f1c46698",
-                "a58959ac2b636105fa7c2308508c281f578a70fda15249a04d04b4d26b5ea2cf"
+                "b885cbc7cc354afa31ac01d804c552ec9a91de855f46e44a805fc7e74a6bf089"
             ]
         },
         "32bit": {
             "url": [
                 "https://github.com/vapoursynth/vapoursynth/releases/download/R59/VapourSynth64-Portable-R59.7z",
-                "https://www.python.org/ftp/python/3.10.5/python-3.10.5-embed-amd64.zip"
+                "https://www.python.org/ftp/python/3.10.7/python-3.10.7-embed-amd64.zip"
             ],
             "hash": [
                 "b4111bf7fd12d1a1bd697659bfcc87dbe8f91797da1c0a9905c0cb42f1c46698",
-                "a58959ac2b636105fa7c2308508c281f578a70fda15249a04d04b4d26b5ea2cf"
+                "b885cbc7cc354afa31ac01d804c552ec9a91de855f46e44a805fc7e74a6bf089"
             ]
         }
     },
