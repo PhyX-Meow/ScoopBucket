@@ -2,7 +2,7 @@
     "version": "20220831",
     "description": "A variant of XySubFilter, which uses libass to render SSA/ASS",
     "homepage": "https://github.com/Masaiki/xy-VSFilter",
-    "license": "",
+    "license": "GPLv2",
     "url": [
         "https://github.com/Masaiki/xy-VSFilter/releases/download/20220831/XySubFilter_with_libass_20220831.zip"
     ],
